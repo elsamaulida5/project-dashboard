@@ -1,6 +1,6 @@
 # project-dashboard
-## Setup Environment
-cd "C:\..\Project"
+## Setup Environment  
+cd "C:\..\Project"  
 pip install pandas matplotlib streamlit
 
 ## Run streamlit
